@@ -1,0 +1,496 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached in the year of our Lord 1650, January 9, at the baptizing of Theophilus (then Lord Hastings) now Earl of Huntington by John Joynes.</title>
+            <author>Joynes, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46336</idno>
+            <idno type="STC">Wing J1161</idno>
+            <idno type="STC">ESTC R28958</idno>
+            <idno type="EEBO-CITATION">10785089</idno>
+            <idno type="OCLC">ocm 10785089</idno>
+            <idno type="VID">45871</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46336)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45871)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1387:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached in the year of our Lord 1650, January 9, at the baptizing of Theophilus (then Lord Hastings) now Earl of Huntington by John Joynes.</title>
+                  <author>Joynes, John.</author>
+               </titleStmt>
+               <extent>[2], 52 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.N. for Edward Mann,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Huntingdon, Theophilus Hastings, 1650-1701.</term>
+               <term>Bible. --  N.T. --  Luke III, 21-22 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45871:1"/>
+            <pb facs="tcp:45871:1" rendition="simple:additions"/>
+            <p>A SERMON Preached in the year of our Lord 1650. January 9. At the Baptizing of THEOPHILUS, (Then Lord <hi>HASTINGS</hi>) Now EARL of Huntingdon.</p>
+            <p>By <hi>John Joynes</hi> M. A. one of the Prebends of <hi>Lincoln,</hi> and Chaplain to the Right Honorable <hi>FERDINANDO</hi> then Earl of <hi>HUNTINGDON.</hi>
+            </p>
+            <q>
+               <p>Baptizetur unusquiſque veſtrum, in Nomine Jeſu Chriſti, in remiſſionem peccatorum, &amp; accipietis donum Spiritus Sancti.</p>
+               <bibl>
+                  <hi>Act. 2.38.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. N.</hi> for <hi>Edward Man,</hi> and are to be ſold at his Shop at the Sign of the <hi>Swan</hi> near <hi>York-Houſe</hi> in the <hi>Strand.</hi> 1668.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:45871:2"/>
+            <pb facs="tcp:45871:2"/>
+            <head>To the Right Honorable THEOPHILUS Earl of HUNTINGDON, Lord <hi>Haſtings, Hungerford, Botreaulx, Molyns, Moules, Slomet,</hi> and <hi>Peverell,</hi> &amp;c.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His Sermon Preached Sixteen years agoe and upward, upon your Lordſhips Account (though then you was not able to take notice of it) having layne by me ever ſince, does now, by your Lordſhips particular deſire, (which I ſhall ever interpret as a Command) preſent it ſelf to your Lordſhips hands. It was my deſire (being ſufficiently conſcious to my ſelf of ſe<g ref="char:EOLhyphen"/>veral Reaſons for it) that it might have enjoyed the ſame ſecurity, by enjoying the ſame obſcurity still. But ſince your Lordſhip will have it otherwiſe, I prefer my obedience to all other conſiderations, and wholly ſurren<g ref="char:EOLhyphen"/>der
+<pb facs="tcp:45871:3"/>my ſelf and it to your Lordſhips Diſpoſal, hoping that if you ſhall think it fit (as I do not) to ſuffer it to ſee any further light, then that of your Lordſhips Cloſet; it may appear under the Patronage of your Honours name, as a ſmall Teſtimony of the great obligation I have to your Honour, and Noble Family: For whoſe health and happineſs daily pray<g ref="char:EOLhyphen"/>eth (as in duty he is Bound)</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>
+                  <hi>Your Honours moſt obliged and moſt humble Servant</hi> John Joynes.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:45871:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Luke 3. Verſe 21, 22.</hi>
+                  </bibl>
+                  <p>Now when all the people were baptized, it came to paſs, that Jeſus alſo being baptized, and praying, the Heaven was opened.</p>
+                  <p>And the Holy Ghoſt deſcended in a bodily ſhape, like a Dove upon him, and a voice came from Heaven which ſaid, Thou art my beloved Son, in Thee I am well pleaſed.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">S</seg>Ince it hath pleaſed Almighty God, in his gracious Providence, out of his infinite mercy and goodneſs to this illuſtrious Family, to afford unto them this new and lively hope, of repairing their late ineſtimable loſs; ſo as for one (and that their onely) Son, ſown in tears, to let them reap another in joy: And ſince by the occa<g ref="char:EOLhyphen"/>ſion of bringing this Infant to his Holy Baptiſme, the opportunity of ſpeaking concerning Baptiſm is ſo happily put into our hands; I conceive I could not make a fitter choice of a Text of Scripture, whereupon to ground ſuch a diſcourſe, than this, which is in ſhort the Hiſtory of his Baptiſm who inſtituted ours. The Author of this Sacrament,
+<pb n="2" facs="tcp:45871:4"/>and the Author of our Salvation is the ſame, even our Lord and Saviour Jeſus Chriſt, who inſtituted this holy Sacrament by his precept, and ſanctifyed it by his Example, and hath promiſed to accompany the right uſe of it, by the internal efficacy and ope<g ref="char:EOLhyphen"/>ration of his holy Spirit unto the end of the world.<note place="margin">Mat. 28.19, 20.</note> 
+               <hi>Go</hi> (ſayes he) <hi>and teach all Nations, Baptizing them in the name of the Father, and of the Son, and of the Holy Ghoſt,</hi> &amp;c. <hi>And loe I am with you alway even to the end of the world.</hi> Chriſt aſſiſts his own Ordinance, with his own ſpirit, and promiſes here, that he will do ſo to the end of the world, which promiſe he, for his part, will moſt ſurely perform, procuring in the Baptiſm of thoſe that are rightly Baptiz'd, the ſame miraculous and ſupernatural effects, in an internal and viſible manner, that ſo viſibly and openly happened at his own Baptiſm; namely, the opening of Heaven; Conferring the Holy Ghoſt upon the Baptiz'd, and entring and enrolling of them as the ſervants and ſons of God. For ſo when he was baptized, we read, that the Heavens were opened, the Holy Ghoſt came down, and a voice from Heaven was heard ſaying, <hi>Thou art my beloved Son, in Thee I am well pleaſed.</hi>
+            </p>
+            <p>How this is performed, ſhall be ſhown in the latter part of this Diſcourſe, when we come to a Review of the Text by way of Application. In
+<pb n="3" facs="tcp:45871:4"/>the mean time we will conſider the words them<g ref="char:EOLhyphen"/>ſelves as they are here Hiſtorically propos'd and laid down before us.</p>
+            <p>And ſo they will engage us to the obſervation of theſe three Particulars.</p>
+            <list>
+               <item>1. The Baptiſm it ſelf, of our Saviour.</item>
+               <item>2. The miraculous effects that attended it, <hi>viz.</hi> the opening of Heaven; the deſcent of the Holy Ghoſt in a viſible ſhape; and laſtly, a Voice from Heaven in an audible manner, proclaiming our Saviour to be the Son of God.</item>
+               <item>3. The Inſtrument or means whereby all this was procured, <hi>viz.</hi> the Prayers of our Saviour.</item>
+            </list>
+            <p>Jeſus alſo being baptized [and praying,] the Heaven was opened, and the Holy Ghoſt deſcend<g ref="char:EOLhyphen"/>ed in a bodily ſhape, like a Dove upon him, and a Voyce came from Heaven which ſaid, <hi>Thou art my beloved Son, in thee I am well pleaſed.</hi>
+            </p>
+            <p>Firſt, of the Baptiſm of our Saviour. <hi>Now when all the people were baptiſed, it came to paſs that Jeſus alſo being baptized,</hi> &amp;c.</p>
+            <p>This: as all other Actions, is to be conſidered with thoſe circumſtances that attend it; concerning which, the Story takes notice of three, Time, Company, and Place.</p>
+            <p n="1">1. For the time; It is ſaid to have been when Jeſus began to be about thirty years of age, <hi>ver.</hi> 23.
+<pb n="4" facs="tcp:45871:5"/>ſo old was our Saviour when he entered upon his Miniſterial charge; not that his Abilities were not grown up till then, for we read that at the age of twelve,<note place="margin">Luk. 2.46, 47.</note> he was able to Diſpute with Doctors. To anſwer, and oppoſe too, to the Admiration of the Hearers. But to teach us that the work of the Miniſtery is not the work of Infants. The ancient Church (guided, no doubt by this example) for<g ref="char:EOLhyphen"/>bad any to enter upon that calling till Thirty. The preſent canons give a greater liberty, but yet ſet a time, before which none ſhall be capable of holy orders; which if it were not done; doubtleſs the general rule, of mens judging of their readineſs for this calling, would be the readineſs of their preferment when they enter'd upon it. Other things as to the circumſtance of Time, with refe<g ref="char:EOLhyphen"/>rence to this Action, being only traditional, it will be enough (if not too much) only to mention, not to inſiſt upon them.</p>
+            <p>There is an ancient tradition that this Baptiſm of our Saviour fell out on the ſixth of <hi>Ianuary,</hi> on which we celebrate the Feaſt of the Epiphany upon which day likewiſe (as the ſame tradition ſayes) the firſt miracle that our Saviour did of turning Water into Wine, did happen. What certainty there is of theſe things, I determine not, any more than of what St. <hi>Auſtin</hi> tells us, concern<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:45871:5"/>the day of the work on which it happened, we (ſayes he in a certain Homily of his) was on the Lords-Day. <hi>Quam ſace &amp; venerabilis eſt hic Dies,</hi> &amp;c. How ſacred and venerable (ſayes he) is this Lords day of ours, on which ſo many won<g ref="char:EOLhyphen"/>derful and remarkable things have fallen out for the univerſal benefit and good of Mankind. This was the firſt day of the Creation, on which the Light was created, being, as it were ſtruck out of the <hi>Chaos</hi> by the <hi>Fiat,</hi> or almighty Word of God. This the day on which the Children of Iſrael paſt on dry ground through the Red Sea. This the day on which it firſt rained Manna: The day on which Chriſt was baptized in <hi>Iordan:</hi> The day whereon he turned Water into Wine in <hi>Cana</hi> of <hi>Galilee:</hi> The day on which his ſacred Benediction multi<g ref="char:EOLhyphen"/>plyed five Loaves to the ſatisfaction of five hun<g ref="char:EOLhyphen"/>dred perſons: The day on which himſelf roſe from Death: The day on which he ſent the Holy Ghoſt; And the day on which we do expect him (ſo hee) to appear a ſecond time to Judgment.</p>
+            <p>Several of theſe things are affirmed to have hap<g ref="char:EOLhyphen"/>pened on the day mentioned, by Scripture it ſelf; as for the reſt that relye upon Tradition, I leave every one at liberty to believe as he ſees cauſe, and ſo paſs to the next and more material circumſtance mentioned in the Text, and that is our Saviours
+<pb n="6" facs="tcp:45871:6"/>Aſſociats, his fellow Communicants, or the per<g ref="char:EOLhyphen"/>ſons that accompanied him in his Baptiſm, and were Baptized with him; which the Evangeliſt tells us were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>All the People. Now when all the people were baptized it came to paſs alſo that Ieſus being baptized,</hi> &amp;c.</p>
+            <p>
+               <note place="margin">
+                  <hi>2.</hi> Cir<g ref="char:EOLhyphen"/>cumſtance company.</note>It was not a ſelect Congregation, or Company of Saints, that Chriſt received his Baptiſm among but a Rabble or mixt multitude; Phariſees, Sa<g ref="char:EOLhyphen"/>duces, Publicans and Soldiers; Dregs of men, and according to the Baptiſts own Character, <hi>a Genera<g ref="char:EOLhyphen"/>tion of Vipers.</hi>
+               <note place="margin">Matth. 3.7.</note>
+            </p>
+            <p>Our Saviour Chriſt, without all doubt, was a perſon ſo pure that he ſtood in no need at all, of any Baptiſmal Ablation, or Sacramental purifica<g ref="char:EOLhyphen"/>tion. 'Twas he that purifyed that Element, and ſanctifyed the waters themſelves, to the myſtical waſhing away of ſin. Yet you ſee, he not only complyed with the accuſtomed Rites of his Coun<g ref="char:EOLhyphen"/>trey (though there was no need for it at all) but he choſe to do it, in the company of ordinary and vulgar people, in a mixt communion, the Rabble indeed, and a Generation of Vipers.</p>
+            <p>Does not this example of our Saviour, ſuffi<g ref="char:EOLhyphen"/>ciently tax the Inſolence and ſingularity of thoſe who refuſe the Sacrament of the Lords Supper upon no other account but this, that they muſt re<g ref="char:EOLhyphen"/>ceive
+<pb n="7" facs="tcp:45871:6"/>it in a mixt multitude? Though perhaps they may think the company they receive it in, worſe then that wherein our Saviour received his Baptiſm; yet I hope, they have not ſo high a con<g ref="char:EOLhyphen"/>ceit of their own purity, as to think it greater than that of the Lamb of God, that was undefiled and without ſpot.<note place="margin">1 Pet. 1.19.</note> And yet this great and real purity of his (tranſcendent and imparalleld as it was) made him not diſdain to communicate, in his bap<g ref="char:EOLhyphen"/>tiſm, with a generation of Vipers. <hi>Sacramentorum Efficacia nullo modo pendet vel a dignitate miniſtran<g ref="char:EOLhyphen"/>tium vel a puritate communicantium.</hi> The efficacy of either Sacrament does in no ſort depend either upon the dignity of the Miniſter that gives it, or the purity of the company that takes it, but upon the power and veracity of him that inſtituted them, and promiſed to accompany the true uſe of his own ordinances, by his own ſpirit to the end of the world.</p>
+            <p>Tis true, that the unworthy Receiver ſhall re<g ref="char:EOLhyphen"/>ceive Damnation to himſelf.<note place="margin">1 Cor. 11.21.</note> But it is not his com<g ref="char:EOLhyphen"/>pany but his ſins that make him unworthy. And it is as true, on the other ſide, that they that come prepared, and rightly diſpoſed for the Receiving of theſe holy Seals, neither the meanneſs or unwor<g ref="char:EOLhyphen"/>thineſs of the Miniſter, or the unfitneſs of other communicants, can render them uneffectual to
+<pb n="8" facs="tcp:45871:7"/>ſuch, for the reaſon aboveſaid, <hi>viz.</hi> That the efficacy of the Sacraments depends not upon the worth or purity of either giver, or Fellow Receiver, but upon the inſtitution and promiſe of Chriſt. This has ever been held Orthodox Divinity in this point, and Mr. <hi>Calvin</hi> himſelf delivers it for ſuch, againſt the Anabaptiſts and other Fanaticks of his time,<note place="margin">Inſtit. cap. <hi>17.</hi> do Bap<g ref="char:EOLhyphen"/>tiſmo.</note> affirming them to be no better than Nova<g ref="char:EOLhyphen"/>tions and Donatiſts, that teach otherwiſe.</p>
+            <p>Thus much of the Company, the ſecond circum<g ref="char:EOLhyphen"/>ſtance obſervable in this Action.</p>
+            <p>
+               <note place="margin">
+                  <hi>3.</hi> Cir<g ref="char:EOLhyphen"/>cumstance Place.</note>The third, (which is the Place) is not ſo material.</p>
+            <p>The Evangeliſts St. <hi>Mathew</hi> and St. <hi>Mark</hi> do aſſure us, it was in the River, <hi>Iordan,</hi> of which ſome are ſo curious as to aſſign ſeveral Reaſons. A<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ſt others that I ſhall not now mention, I look up <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Thomas Aquinas</hi> as moſt ſignificant,<note place="margin">P. <hi>3.</hi> Qu. <hi>1</hi> Art.</note> 
+               <hi>viz.</hi> That the River <hi>Iordan</hi> being the water that the Children of <hi>Iſrael</hi> paſt through into the Land of Promiſe, was the fitteſt to be made uſe of, in the Juſtification of that Sacrament, by which we do (and without which we cannot) enter into the kingdome of heaven; according to that of our Saviour, <hi>Except a man be born of water and of the ſpirit,</hi>
+               <note place="margin">To. 3.5.</note> 
+               <hi>he cannot enter into the Kingdom of God.</hi>
+            </p>
+            <p>And there are thoſe that venture to tell us, That the place, in the River it ſelf, where our Saviour
+<pb n="9" facs="tcp:45871:7"/>was Baptiz'd, was the very place the Children of <hi>Iſrael</hi> paſt through,<note place="margin">Joſ. 4.</note> and that the Baptiſt pointed to thoſe Stones, that <hi>Ioſua</hi> cauſed to be erected upon the ſhore, in memory of that miraculous paſſage, when he told the <hi>Iewes,</hi>
+               <note place="margin">Matth. 3.9.</note> 
+               <hi>That God was able out of thoſe Stones to raiſe up children unto Abraham.</hi> Of the truth of theſe things let them that have the cu<g ref="char:EOLhyphen"/>rioſity determine: St. <hi>Iohn</hi> the Evangeliſt tells us, that the place where the <hi>Baptiſt</hi> did Baptize, was <hi>Aenon</hi> near <hi>Salim;</hi> whether this place was over againſt <hi>Iericho,</hi> where the <hi>Iſraelites</hi> paſt this River, I leave to the Geographers to diſpute. Whatſo<g ref="char:EOLhyphen"/>ever the Reaſon was that mov'd our Saviour to be Baptized in the River <hi>Iordan,</hi> certain it is (as our Church profeſſes in her office of Baptiſm) that by this Action he did ſanctifie both that, and all other waters, to the myſticall waſhing away of ſin.</p>
+            <p>And ſo I have done with the firſt Particular ob<g ref="char:EOLhyphen"/>ſervable in this ſtory, which is the Baptiſme of our Saviour, with the ſeveral circumſtances of that Action.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> The ſecond is the miraculous Effects attending it.<note place="margin">
+                  <hi>2.</hi> Parti<g ref="char:EOLhyphen"/>cular obſer<g ref="char:EOLhyphen"/>vable.</note> Of which the firſt is</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> 1. <hi>The opening of Heaven.</hi>
+            </p>
+            <p>The manner how this was performed, as it is not eaſie, ſo it is not neceſſary to determine. That it was a reall Rupture or Diſcontinuance of the hea<g ref="char:EOLhyphen"/>venly
+<pb n="10" facs="tcp:45871:8"/>frame, is altogether improbable, but onely an Appearance of an extraordinary Light and Brightneſs in the ayre: which kind of Phoeno<g ref="char:EOLhyphen"/>menon or Impreſſion, they that write of Mete<g ref="char:EOLhyphen"/>ors call <hi>Vorago</hi> or <hi>Hiatus;</hi> of which kind (it is to be believed) was that Apparition that happened to St. <hi>Stephen,</hi> where he ſayes, <hi>That he ſaw the Heaven opened,</hi>
+               <note place="margin">Acts 7.56.</note> 
+               <hi>and Ieſus ſtanding at the right hand of God.</hi> It is ſufficient to believe, that the Phoe<g ref="char:EOLhyphen"/>nomenon, or extraordinary Apparition of light, that was then beheld by the ſpectators, did appear, or ſhew it ſelf to them, as if the Heavens had real<g ref="char:EOLhyphen"/>ly opened.</p>
+            <p>But beſide this there appeared another won<g ref="char:EOLhyphen"/>der, which was,</p>
+            <p n="2">2. <hi>The Holy Ghoſt like a Dove deſcending and lighting upon him.</hi>
+            </p>
+            <p>The Heaven was opened and the Holy Ghoſt deſcended in a bodily ſhape, like a Dove upon him. Waving all frivolous Queſtions about this matter, As, Whether this was a Dove really, or in appearance onely? Whether ſeen by our Savi<g ref="char:EOLhyphen"/>our and the Baptiſt alone, or by the Company al<g ref="char:EOLhyphen"/>ſo? with ſome others more bold and extravagant then theſe, As, Whether or no this Dove was aſ<g ref="char:EOLhyphen"/>ſum'd by the Holy Ghoſt into the unity of the ſame <hi>Suppoſitum</hi> (as the Schooles uſe to ſpeak.)</p>
+            <pb n="11" facs="tcp:45871:8"/>
+            <p>It will be ſufficient for us to take notice that God at this time was pleaſed to honour the ſolemnity of his Sons baptiſme by ſo glorious and viſible a Miracle; which, though it was a ſufficient Atteſta<g ref="char:EOLhyphen"/>tion that our Saviour was a Divine and extraordi<g ref="char:EOLhyphen"/>nary Perſon, yet was it not an infallible conviction, or Demonſtration that he was the Son of God. And therefore (as a full teſtimony of that) this viſible, was ſucceeded by an audible, but in all reſpects, as great a Miracle; and that was</p>
+            <p n="3">
+               <note place="margin">
+                  <hi>3.</hi> Mira<g ref="char:EOLhyphen"/>culous effect.</note>3. <hi>A voice from Heaven</hi> pronouncing him to be the Son of God; <hi>And there came a voice from Heaven, which ſaid, Thou art my beloved Son in whom I am well pleaſed.</hi>
+            </p>
+            <p>Certainly this was the greateſt ſolemnity that ever happened upon Earth; where the myſterious Cabinet (as a late Author ſpeakes) of the ſacred Trinity, was opened and expoſed to the view of Mortalls. God the Son in perſon of a Man; God the Holy Ghoſt in the likeneſs of a Dove: And though no ſhape of God the Father was ſeen, yet was his voice heard audibly, atteſting the Divinity of our Saviour, <hi>This is my beloved Son in whom I am well pleaſed.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> There remaines onely now, the third and laſt Particular, which the Text propoſes as obſervable in this ſtory of our Saviours baptiſme. And that is,</p>
+            <pb n="12" facs="tcp:45871:9"/>
+            <p>The means whereby theſe Miracles were pro<g ref="char:EOLhyphen"/>cured. And that is here ſaid to be <hi>The</hi>
+            </p>
+            <p>
+               <hi>Prayer of our Saviour.</hi>
+            </p>
+            <p>Now it came to paſs, that Jeſus alſo being bap<g ref="char:EOLhyphen"/>tized and praying, the Heaven was opened, and the Holy Ghoſt deſcended in a bodily ſhape like a Dove upon Him, and a voice came from Hea<g ref="char:EOLhyphen"/>ven, which ſaid, Thou art my beloved Son in whom I am well pleaſed. Concerning which, it will be as proper to ſpeak in the <hi>Review,</hi> or <hi>Ap<g ref="char:EOLhyphen"/>plication</hi> of this Text, unto the preſent occaſion; unto which I ſhall now addreſs my ſelf.</p>
+            <p>
+               <note place="margin">The Review.</note>When I conſider how our Saviour was bapti<g ref="char:EOLhyphen"/>zed, not for himſelf, but for us; and how he did ſubmit himſelf to this Rite, that by his Exam<g ref="char:EOLhyphen"/>ple (as well as Precept and Inſtitution) he might conſigne the uſe of this holy Sacrament) unto his Church to the end of the world; I doubt not at all to affirme that one main End of the happen<g ref="char:EOLhyphen"/>ing of theſe great Miracles and Oſtents at this time, was, That they might ſerve as ſo many Pre<g ref="char:EOLhyphen"/>dictions and Significations of the ſpiritual Effects and Influences, that in all future Ages ſhould ac<g ref="char:EOLhyphen"/>company the uſe of this Sacrament in the Church, eſpecially it being aſſented to, as an undoubted verity by all Chriſtians, That there is nothing ri<g ref="char:EOLhyphen"/>tually preſcribed, or ſupernaturally happenning in
+<pb n="13" facs="tcp:45871:9"/>Scripture, but relates either to ſomething of duty, or ſomething of benefit in the Church. Inſomuch that <hi>St. Paul</hi> ſpeaks of the Baptiſm of the Iſrae<g ref="char:EOLhyphen"/>lites under <hi>Moſes</hi> in the Cloud, and in the Sea,<note place="margin">1 <hi>Cor.</hi> 10 1.</note> as referring to Chriſt: nay, he ſayes that the Rock that followed them was Chriſt:<note place="margin">
+                  <hi>v.</hi> 4.</note> An expreſſion to be underſtood like that of <hi>Gen.</hi> 41.26. where 'tis ſaid, The ſeven Kine are <hi>(i. per figure)</hi> ſeven years, as the Rock being ſtruck yielded them wa<g ref="char:EOLhyphen"/>ter; ſo Chriſt <hi>percuſſus ad mortem, Spiritum San<g ref="char:EOLhyphen"/>ctum ſuis obtinuit,</hi> being ſtruck to death, purcha<g ref="char:EOLhyphen"/>ſed the gifts of the Holy Spirit for his Church: And as the Rock in effect, (that is, the water that came out of the Rock) followed them in all their Journeys; ſo Chriſt by his Spirit accompanies his Church to the end of the world. That <hi>Rock was Chriſt,</hi> (1.) was a lively figure of Him.</p>
+            <p>But I return to the matter in hand; this being only a ſhort Digreſſion in order to my preſent Deſign, which is to ſhew, that the ſame Spirit which did accompany Chriſt in his Baptiſm, does ſtill accompany the Baptiſm of Chriſt; and that in the right uſe of that Sacrament, Chriſt is, by his holy Spirit, according to his promiſe, ſtil preſent with his Church, and will be ſo to the end of the world: And that the ſame miraculous effects that were performed when he was Baptiz'd are
+<pb n="14" facs="tcp:45871:10"/>ſtill perform'd in the due Adminiſtration of the Sacrament of Baptiſm, though not in a viſible, yet in a real manner; That therein, or thereby Heaven is opened; That therein the Holy Ghoſt is conferr'd; and laſtly, that as Chriſt in his, was proclaim'd to be the Son; ſo Chriſtians in their Baptiſm are receiv'd, admitted, and taken into the number, Roll, or Liſt of the Children of God.</p>
+            <p n="1">1. Of the opening of Heaven.<note place="margin">Ir</note>
+            </p>
+            <p>It is a known paſſage in the Song of St. <hi>Am<g ref="char:EOLhyphen"/>broſe,</hi> commonly called the <hi>Te Deum,</hi> where, ſpeaking of Chriſt, he ſayes, <hi>When thou hadſt o<g ref="char:EOLhyphen"/>vercome the ſharpneſs of death, thou didſt open the Kingdom of Heaven to all Believers.</hi>
+            </p>
+            <p>Without looking after <hi>Limbus Patrum,</hi> which ſome pretend to find in this paſſage, the ſenſe of it is very obvious to any that ſhall conſider it, thus, That though it was our Saviours buſineſs in his life time, to make known the will of his Father to his Diſciples, and to let the whole Na<g ref="char:EOLhyphen"/>tion of the Jews underſtand, that the Kingdom of Heaven was come among them,<note place="margin">
+                  <hi>Luk.</hi> 17.21.</note> yet the fuller Revelation of the myſteries thereof was reſerved till after his death. Then it was that he did ex<g ref="char:EOLhyphen"/>pound the Scriptures unto his Diſciples concern<g ref="char:EOLhyphen"/>ing himſelf,<note place="margin">
+                  <hi>Luk.</hi> 24.27.</note> and opened their underſtandings ſo,
+<pb n="15" facs="tcp:45871:10"/>as ſully to make them perceive the drift and meaning of what was written both in <hi>Moſes</hi> and the Prophets concerning Him;<note place="margin">
+                  <hi>v.</hi> 45.</note> For forty dayes together after his Reſurrection,<note place="margin">
+                  <hi>Act.</hi> 1.3.</note> ſpeaking unto them of the things pertaining to the Kingdom of God. Then it was that he inſtituted the Sacra<g ref="char:EOLhyphen"/>ment of Baptiſm as a Dore of Admiſſion and En<g ref="char:EOLhyphen"/>trance into that Kingdom,<note place="margin">
+                  <hi>Mat.</hi> 28.19, 20.</note> commanding them to baptize all Nations in the Name of the Father, the Son, and the Holy Ghoſt, and to teach them to obſerve all things, whatſoever He had com<g ref="char:EOLhyphen"/>manded. Thus when he had overcome the ſharp<g ref="char:EOLhyphen"/>neſs of death, he did open the Kingdom of hea<g ref="char:EOLhyphen"/>ven to all believers.</p>
+            <p>But that you may be more fully ſatisfied how Baptiſm is ſaid to open the Kingdom of heaven, you muſt underſtand that the Kingdom of heaven in the New Teſtament is taken in two ſences. Firſt (and that very frequently) for the Kingdom of Grace; Into which Kingdom there is no entrance but by the dore of Baptiſm; And (with ſubmiſ<g ref="char:EOLhyphen"/>ſion to the Judgment of the Church) I conceive that that paſſage of our Saviour to <hi>Nicodemus,</hi> where he ſayes,<note place="margin">
+                  <hi>Job.</hi> 3.5.</note> 
+               <hi>Except a man be born of wa<g ref="char:EOLhyphen"/>ter and of the ſpirit, he cannot enter into the King<g ref="char:EOLhyphen"/>dom of God,</hi> ought (primarily at leaſt) to be un<g ref="char:EOLhyphen"/>derſtood in this ſence; ſo as that the meaning of
+<pb n="16" facs="tcp:45871:11"/>the place is this; Except a man be baptized, he can<g ref="char:EOLhyphen"/>not be a Chriſtian, or a Member of my Kingdom.</p>
+            <p>Secondly, For the Kingdom of Glory. If Bap<g ref="char:EOLhyphen"/>tiſm be the dore of admiſſion into the Kingdom of Grace, it muſt be conſequently ſo into the Kingdom of Glory: For none can be Members of the Kingdom of Glory hereafter that are not Members of the Kingdom of Grace here.</p>
+            <p>What then muſt we conclude (will you ſay) concerning them that die unbaptized?<label type="milestone">
+                  <seg type="milestoneunit">Objection. </seg>
+               </label> Do all ſuch certainly and eternally periſh for want of this Sacrament? Many Chriſtians in the primitive times, that had embraced the faith of Chriſt, died before they could have the opportunity of Baptiſm; which as Eccleſiaſtical Writers tell us, was in thoſe Ages adminiſtred but at certain times in the year. Many were martyred, and ſo carried to the place of Execution before they could be brought to the Font, or place of Bap<g ref="char:EOLhyphen"/>tiſm, taſted of the Baptiſm of Fire, before they could receive that of Water.</p>
+            <p>And laſt of all, what muſt we think of thoſe children, that are born of Chriſtian Parents, and yet die unbaptized?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> To give a diſtinct Anſwer in all theſe Caſes: I ſay firſt; as to them who died before they could have the opportunity of Baptiſm, they were bap<g ref="char:EOLhyphen"/>tized
+<pb n="17" facs="tcp:45871:11"/>
+               <hi>in voto,</hi> though not <hi>de facto.</hi> They were baptized in vote and deſire: They were Candi<g ref="char:EOLhyphen"/>dates of Baptiſm, and fit to wear the Livery of the Lamb, but died before it was fit for them. In this caſe we are to believe, that the will is ac<g ref="char:EOLhyphen"/>cepted for the deed; and that where there is faith, repentance; and a deſire of Baptiſm, the all<g ref="char:EOLhyphen"/>merciful God, who tyes no body to impoſſibili<g ref="char:EOLhyphen"/>ties, puniſhes none for the want of that, which they deſired, but could not have.</p>
+            <p n="2">2. As for thoſe Martyrs that died before they were initiated by this Sacrament, it cannot be ab<g ref="char:EOLhyphen"/>ſolutely ſaid that they died unbaptiz'd; for <hi>bap<g ref="char:EOLhyphen"/>tiſmus ſanguinis</hi> is a real Baptiſm: The want of water, which is the ordinary and outward Ele<g ref="char:EOLhyphen"/>ment of Baptiſm, being ſupplyed by their own blood; and inſtead of giving up their Names, (which is the form) in their Martyrdom they gave up their lives to Chriſt, and ſo were ſafe in that promiſe of his, that ſayes,<note place="margin">
+                  <hi>Luke</hi> 9.24</note> 
+               <hi>Whoſoever loſes his life for my ſake ſhall ſave it.</hi>
+            </p>
+            <p>Laſtly, For Infants that die unbaptized, ſup<g ref="char:EOLhyphen"/>poſing that nothing (as is uſually held) of certain<g ref="char:EOLhyphen"/>ty can be affirmed in this point: Yet this we are certain of, That the denyal of ſalvation to ſuch was the firſt foundation of the Invention of <hi>Lim<g ref="char:EOLhyphen"/>bus Puerorum,</hi> and that St. <hi>Auſtin,</hi> who ſometime
+<pb n="18" facs="tcp:45871:12"/>denyed ſalvation in this caſe, was therefore ſtil'd <hi>Durus Pater Infantum.</hi> And though nothing can be pronounc'd as <hi>de ſide</hi> herein, yet charity binds us to believe (that which in it ſelf is very credible, and has been held by the pious and learned of all ſides) that as in bringing of an Infant to Bap<g ref="char:EOLhyphen"/>tiſm the Faith of the whole Church, and of them that preſent it, is reputed as it's own: ſo in caſe it die before it be baptized, the vote and deſire of the whole Church in general (which would have all her Children partakers of that Sa<g ref="char:EOLhyphen"/>crament) and that of the faithfull Parents in ſpe<g ref="char:EOLhyphen"/>cial, who did deſire and deſign it, will be accep<g ref="char:EOLhyphen"/>ted and reputed for Baptiſm before God. More<g ref="char:EOLhyphen"/>over it is no leſs credibly then piouſly held in this caſe, That what is wanting of the outward mi<g ref="char:EOLhyphen"/>niſtry of the Church (without the fault of thoſe that want it) ſhall be ſupplyed out of the infinite Treaſury of the merits of our faithful and mer<g ref="char:EOLhyphen"/>ciful High-prieſt,<note place="margin">1 <hi>Tim.</hi> 2.4.</note> who would not that any ſhould periſh, but that all ſhould be ſaved.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> The ſecond Miracle here mentioned to have happenned at the Baptiſm of our Saviour, is the Diſcent of the Holy Ghoſt. In parallel to which I come now to ſhew, That the Holy Ghoſt is conferr'd in the Sacrament of Baptiſm, and that the Spirit of God moves upon theſe waters of
+<pb n="19" facs="tcp:45871:12"/>Regeneration as really, as he is ſaid to have done upon thoſe at the Creation.<note place="margin">Gen. 1.2.</note>
+            </p>
+            <p>For the demonſtration of which Truth I ſhall bring Three proofes beyond all exception. 1. Our Saviour promiſ'd it ſhould be ſo. 2. The Church believes, and has ever believ'd that it is ſo. 3. The unqueſtionable Hiſtory of the Apoſtolick times has left it upon record, that then <hi>de facto,</hi> it was ſo.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> 1. <hi>Iohn did indeed baptize with water,</hi>
+               <note place="margin">Acts 3.5.</note> 
+               <hi>but I</hi> (ſayes our Saviour) <hi>will baptize you with the Holy Ghoſt.</hi> And herein conſiſted the difference betwixt the paptiſme of our Saviour, and the baptiſme of <hi>Iohn,</hi> by <hi>Iohns</hi> own confeſſion;<note place="margin">Matth. 3.11.</note> 
+               <hi>I indeed baptize you with water, but he that comes after me ſhall baptize you with the Holy Ghoſt and with Fire:</hi> ((I.) Ac<g ref="char:EOLhyphen"/>cording to a uſual Hebraiſm) with the Fire of the Holy Ghoſt, or with the Gifts of the Holy Ghoſt, that are quick and powerfull, active, and operative as Fire. The baptiſme of <hi>Iohn</hi> was no more but a Significative Ceremony, ſerving to put them in mind, that came to it, of the neceſſity of Repen<g ref="char:EOLhyphen"/>ance, and Purity of Life;<note place="margin">Verſ. 11.</note> and this was it that <hi>Iohn</hi> told them, where he ſayes, <hi>I indeed baptize you with water unto Repentance.</hi>
+            </p>
+            <p>Our Saviours baptiſme is another thing: His baptiſme is the Laver of Regeneration,<note place="margin">Tit. 3.5.</note> as St. <hi>Paul</hi>
+               <pb n="20" facs="tcp:45871:13"/>calls it, wherein they that are waſht, are Regene<g ref="char:EOLhyphen"/>rate and born anew, of Water and of the Holy Ghoſt; which likewiſe <hi>St. Paul</hi> takes notice of in that place, as the inſeparable concomitant of that baptiſme; <hi>Not by Works of Righteouſneſs which we have done, but by his mercy he ſaved us by the waſhing of Regeneration, and renewing of the Holy Ghoſt.</hi>
+            </p>
+            <p>
+               <hi>Secondly.</hi> This Promiſe of our Saviours (whoſe Promiſes are all of them <hi>Yea and Amen</hi>) muſt needes be acknowledg'd a ſufficient ground for the Church to build her Faith upon in this point; and accordingly our Church does publickly pro<g ref="char:EOLhyphen"/>feſs her belief of the ſame, in expreſs words, to that purpoſe, in the Collect that immediately ſucceeds the Baptiſme; <hi>Seeing now dearly beloved that this Child is regenerate, and grafted into the Body of Chriſts Church,</hi> &amp;c. And the ancient Fathers ſpeaking upon this point, deliver their fence to this purpoſe; We bring no Sanctity or holineſs with us into the World, nor are we ſanctifyed in the Womb; But as Chriſt was ſanctifyed at his Conception, ſo we at our Regeneration. He was conceiv'd, not by Man, but by the Holy Ghoſt; and we are, <hi>not of Blood, nor of the will of the Fleſh,</hi>
+               <note place="margin">John 1.13.</note> 
+               <hi>nor of the will of Man, but of God.</hi> The ſame overſhadowing power which formed his Hu<g ref="char:EOLhyphen"/>mane
+<pb n="21" facs="tcp:45871:13"/>nature, reformeth ours; and the ſame Spirit aſſureth us a remiſſion of our ſins, which cauſed in him an exemption from all ſin. He that was born for us upon his Incarnation, is born within us upon our Regeneration.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> Laſtly, What Chriſt Promiſes, and the Church Profeſſes to believe, we find was really and actu<g ref="char:EOLhyphen"/>ally perform'd in the Apoſtles age in a viſible and perceptible manner. At the nineteenth Chapter of the <hi>Acts of the Apoſtles,</hi> we are told, that S. <hi>Paul</hi> coming upon a time to <hi>Epheſus,</hi>
+               <note place="margin">Act. 19.1, 2, <hi>&amp;c.</hi>
+               </note> he <hi>found there certain Diſciples that having onely received the Bap<g ref="char:EOLhyphen"/>tiſme of Iohn, had not ſo much as heard whether there was ſuch a thing as the Holy Ghoſt or no.</hi> Hereupon <hi>Paul takes them and baptizes them in the Name of the Lord Ieſus;</hi>
+               <note place="margin">Ver. 5.</note> 
+               <hi>And immediately the Holy Ghoſt fell upon them,</hi>
+               <note place="margin">Ver. 6.</note> 
+               <hi>and they ſpake with Tongues and Prophecyed.</hi> It is ſaid indeed that upon the Impoſition of St. <hi>Pauls</hi> hands <hi>they received the Holy Ghoſt.</hi> Now whether this Impoſition of hands was in, or after Baptiſme, is not certain, nor much materiall. However it was; 'tis moſt certain, that upon their being baptized in the Name of the Lord <hi>Ieſus,</hi> they received the Holy Ghoſt, which before in the Baptiſme of <hi>Iohn</hi> they had not re<g ref="char:EOLhyphen"/>ceived, nor ſo much as heard of.</p>
+            <p>'Tis true, thoſe Gifts of the Holy Ghoſt there
+<pb n="22" facs="tcp:45871:14"/>mentioned are miraculous and extraordinary, which are not to be expected, now, becauſe the reaſon why they were, then, given, is now ceaſed. Miracles are Signes, and Signes are for unbelievers: Thoſe extraordinary diſpenſations of the Spirit were in order to the Converſion of Nations.<note place="margin">1 Cor. 14.22</note> In converted and ſetled Churches there is no need of Miracles, and therefore there, the Gifts of the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, and diſpenſations of the Spirit are not viſible and extraordinary, or by way of prodigy or oſtent; but the Spirit in a ſilent and inviſible (yet real and effectual) manner bloweth where,<note place="margin">Joh. 3.8.</note> and as it pleaſeth. As thoſe Diſciples at <hi>Ephe<g ref="char:EOLhyphen"/>ſus</hi> did, upon their being baptized in the name of the Lord Jeſus, receive the Holy Ghoſt in Gifts miraculous and extraordinary, ſo doubtleſs they did receive thoſe more ordinary (but more neceſſary) gifts and graces which by the Holy Ghoſt are poured forth upon all thoſe that really and truly have given up their names to Chriſt; which then, as now, and now, as then, are ſhed forth in Baptiſm, according to what <hi>S. Peter</hi> un<g ref="char:EOLhyphen"/>dertakes to thoſe new Converts of his, <hi>Act.</hi> 2.38. <hi>Repent, and be baptized every one of you, in the name of Jeſus Chriſt, for the remiſſion of ſins; and ye ſhall receive the gift of the Holy Ghoſt.</hi>
+            </p>
+            <p>The Gifts of the Holy Ghoſt at that time pour<g ref="char:EOLhyphen"/>ed
+<pb n="23" facs="tcp:45871:14"/>forth together with the water of Baptiſm, (beſides thoſe extraordinary, which onely fell up<g ref="char:EOLhyphen"/>on ſome (ſuch as Tongues, Miracles, and Prophe<g ref="char:EOLhyphen"/>cy, <hi>&amp;c.</hi>) were ordinarily theſe three; Illumina<g ref="char:EOLhyphen"/>tion, Juſtification and Sanctification.</p>
+            <p n="1">1. Illumination:<note place="margin">Heb. 10.32.</note> 
+               <hi>Call to mind</hi> (ſays the Au<g ref="char:EOLhyphen"/>thor to the <hi>Hebrews</hi>) <hi>the former dayes, in which after ye were illuminated ye ſuffered a great fight of afflictions.</hi> The Ancients underſtanding this place of Baptiſm, do ſometimes in their writings call Baptiſm it ſelf by the names of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or Illu<g ref="char:EOLhyphen"/>mination, and the Font <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or the Illumina<g ref="char:EOLhyphen"/>tory. This no doubt with regard of the Bapti<g ref="char:EOLhyphen"/>zed's being then admitted into the knowledg and participation of thoſe myſteries of God in Chriſt, which, as the Apoſtle ſpeaks, had been hid from Ages and Generations, but now made manifeſt unto the Saints.<note place="margin">Col 1.26.</note> The faith and belief of which myſteries, was the gift of God by the operation of the Holy Ghoſt, without which, we can neither rightly love God, or know Chriſt. <hi>No man can ſay that Jeſus is the Lord, but by the Holy Ghoſt.</hi> So the Apoſtle tells us, 1 <hi>Cor.</hi> 12.3. And in ano<g ref="char:EOLhyphen"/>ther place,<note place="margin">Rom. 5.5.</note> 
+               <hi>The love of God is ſhed abroad in our hearts by the Holy Ghoſt which is given unto us.</hi>
+            </p>
+            <p n="2">2. <hi>Juſtification:</hi> by which I underſtand Re<g ref="char:EOLhyphen"/>miſſion of ſins, and Reconciliation with God. <hi>Be<g ref="char:EOLhyphen"/>ing
+<pb n="24" facs="tcp:45871:15"/>juſtified by faith, we have peace with God.</hi> Now that Baptiſm is an inſtrument of conferring Remiſſion of ſins is an Article of our Creed:<note place="margin">Rom. 5.1.</note> I believe one Baptiſm for the Remiſſion of ſins;<note place="margin">Nicene <hi>Creed.</hi>
+               </note> which (as all other Articles ought to be) is founded upon Divine Revelation, or expreſs authority of Holy Scripture. <hi>Be baptized every one of you in the name of Jeſus Chriſt for Remiſſion of ſins,</hi> (ſo <hi>S. Peter.</hi>
+               <note place="margin">Act. 2.38.</note>) And the Counſel that the devout <hi>Ana<g ref="char:EOLhyphen"/>nias</hi> gave <hi>S. Paul,</hi> as he relates the ſtory himſelf, <hi>Act.</hi> 22.16. was, <hi>That he would make haſte to be baptized, and waſh away his ſins, calling upon the name of the Lord.</hi>
+            </p>
+            <p>Upon which grounds we may ſafely conclude, that all thoſe firſt converts to Chriſtianity, who upon the preaching of the Apoſtles renounc'd their Idolatry and ſinful life, and embrac'd the faith of Chriſt, did upon their Baptiſm receive a full, free and inſtantaneous pardon of all their ſins, and <hi>were ſaved by Baptiſm,</hi> as <hi>S. Peter</hi> ſpeaks, 1 <hi>Pet.</hi> 3.21. or <hi>by the waſhing of Regeneration,</hi> as <hi>S. Paul, Tit.</hi> 3.5.</p>
+            <p n="3">3. <hi>Sanctification.</hi> For which the place now mentioned in <hi>Titus</hi> is moſt expreſs; <hi>He ſaved us by the waſhing of Regeneration, and renewng of the Holy Ghoſt, which he ſhed on us moſt abundantly through Jeſus Chriſt our Saviour.</hi> And in 1 <hi>Cor.</hi> 6.11.
+<pb n="25" facs="tcp:45871:15"/>ſpeaking what kind of perſons ſome of the <hi>Corinthians</hi> had been before their Baptiſm, he tells them there, <hi>How by it, they were waſhed and ſan<g ref="char:EOLhyphen"/>ctified, and juſtified in the name of the Lord Jeſus, and by the ſpirit of God.</hi> And the Chuch in her preface to the office of Baptiſm does not onely exhort the Congregation to pray that the Child may be baptiz'd with water, and the Holy Ghoſt, but prayes her ſelf in theſe words: <hi>We beſeech thee for thine infinite mercies, that thou wilt mercifully look upon this Child, waſh him, and ſanctifie him with the Holy Ghoſt, &amp;c.</hi> And that (when ſhe prayes thus) ſhe prayes in faith; you may be ſatisfied from her profeſſion afterward: <hi>Seeing now, dearly beloved, that this Child is regenerate, and grafted into the body of Chriſts Church, &amp;c.</hi> Which profeſſion ſhe makes not to men onely, but to God, and that in a moſt ſolemn and publick manner, as appears from thoſe words in the Thanksgiving immediately following: <hi>We yield thee hearty thanks, moſt heavenly Father, that it hath pleaſed thee to regenerate this Infant by thy Holy Spirit,</hi> &amp;c.</p>
+            <p>They then that do not believe that the Holy Ghoſt does accompany this Ordinance of Chriſt, do not believe as the Church believes, nor as the Scripture teaches. The deſcent of the Holy Ghoſt
+<pb n="26" facs="tcp:45871:16"/>upon our Saviour in a viſible ſhape, was one of thoſe miraculous effects that hapned at his bap<g ref="char:EOLhyphen"/>tiſm; which miraculous diſcent at that time, was no leſs then a pledg and earneſt of what is done in the Sacrament of Baptiſm, ever ſince, though not miraculouſly and viſibly, yet really and effectu<g ref="char:EOLhyphen"/>ally; the Gifts of Illumination and Juſtification being therein conferred by the waſhing of Rege<g ref="char:EOLhyphen"/>neration, and renewing of the Holy Ghoſt.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> The third and laſt miraculous effect, accom<g ref="char:EOLhyphen"/>panying our Saviours Baptiſm, was a voice from Heaven proclaiming him in the Audience of the by-ſtanders to be the Son of God: <hi>And there came a voice from Heaven, which ſaid, Thou art my beloved Son in whom I am well pleaſed.</hi>
+            </p>
+            <p>Here I doubt not to affirm, That as Chriſt in his baptiſm was juſtified in, or by the Spirit (as the Apoſtle with reference,<note place="margin">1 Tim. 3.16.</note> as is thought, to this teſtimony ſpeaks;) that is, As our Saviour at his baptiſm was mightily declared by the Holy Ghoſt to be the true and eternal Son of God by Generation, ſo we at our baptiſm are admitted and received as the Sons of God by Adoption.</p>
+            <p>I ſuppoſe it altogether needleſs for me to bring arguments to prove this: Every one that has but learn'd the entrance into his Catechiſm, profeſſes that in his Baptiſm he was made a member of
+<pb n="27" facs="tcp:45871:16"/>Chriſt, a Child of God, and an Inheritor of the Kingdom of Heaven. And upon this account it is, that the Church, upon the conferring of bap<g ref="char:EOLhyphen"/>tiſm, gives publick and ſolemn thanks to God in thoſe words, (mentioned before) expreſſing not onely the gift of Regeneration, but that alſo of Filiation or Adoption. We yield thee hearty thanks moſt merciful Father, that it hath pleaſed thee to regenerate this Infant by thy Holy Spirit, to <hi>receive him for thy own Child by Adoption,</hi> and to incorporate him into thy Holy Church. And ſo having done with thoſe miraculous events that attended our Saviours Baptiſm, which were, The opening of Heaven, The deſcent of the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, and a voice heard from Heaven, pro<g ref="char:EOLhyphen"/>claiming Chriſt to be the Son of God. And ha<g ref="char:EOLhyphen"/>ving parallel'd theſe miraculous Events with thoſe real effects that do ſtill accompany that Sacra<g ref="char:EOLhyphen"/>crament of Chriſts own Inſtitution, and (ac<g ref="char:EOLhyphen"/>cording to his promiſe) ſhall do ſo to the end of the world.<note place="margin">Mat. 28. <hi>ult.</hi>
+               </note> And having ſhewed that therein Heaven is opened, the Holy Ghoſt conferred, and the party baptiz'd made the Child of God by Adoption: I come now unto</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> The third Particular remakable in this ſtory,<note place="margin">Particular obſervable.</note> and that is the means or inſtrumental cauſe that procur'd the opening of the Heavens, the deſcent
+<pb n="28" facs="tcp:45871:17"/>of the Holy Ghoſt, and the voice that proclaimed Chriſt to be the Son of God; which was (as is here obſerved) the Prayers of our Saviour. <hi>Jeſus being baptized and praying, it came to paſs that the Heavens were opened,</hi> &amp;c.</p>
+            <p>That ſo great things as theſe were procur'd by ſo powerful a means as the Interceſſion of the Son of God, we need not wonder. So need we not doubt of the truth and reality of thoſe graces conferr'd upon us at our baptiſm, ſince they are procur'd and obtained by the very ſame means, <hi>viz.</hi> by the mediation and interceſſion of our faithful and merciful High-prieſt,<note place="margin">Heb. 7.25.</note> who ever lives to make interceſſion for us, and who has promiſed to accompany the uſe even of this very Ordi<g ref="char:EOLhyphen"/>nance, by his Holy Spirit, unto the end of the world. <hi>Go and teach all Nations, baptizing them,</hi> &amp;c. <hi>And loe I am with you even to the end of the world.</hi>
+               <note place="margin">Mat. 28.19, 20.</note> Hence we learn, moreover, that ſolemn Prayers and ſupplications ought always to be joyned with the Adminiſtration of the Sacraments. <hi>Jeſus be<g ref="char:EOLhyphen"/>ing baptized and praying, the heavens were opened, and the Holy Ghoſt deſcended,</hi> &amp;c. So now in the uſe of this Sacrament, the Prayers of the Church, united to the Interceſſion of Chriſt, are a power<g ref="char:EOLhyphen"/>ful and effectual means of epening Heaven, and of bringing down the Holy Ghoſt (in the ſence
+<pb n="29" facs="tcp:45871:17"/>above mention'd) upon the perſons baptiz'd.</p>
+            <p>Again: From hence it is obvious to obſerve, how the Ritual part of Chriſtianity, (1.) The Rites and external Ceremonies enjoyn'd on Gods part, are always to be accompanied with ſomething mo<g ref="char:EOLhyphen"/>ral on ours. The Rite of Baptiſm is then effectual when it is rightly performed; that is, when the Adminiſtration of it is accompanied with ſolemn Prayer and Supplication. Though the grace con<g ref="char:EOLhyphen"/>ferr'd in Baptiſm be the free Gift of God, yet ſomething is requir'd on our parts for the procu<g ref="char:EOLhyphen"/>ring of it: Not that we ſhould glory or attribute any thing to the merit of our own works, but that we may value and prize the Grace the more, be<g ref="char:EOLhyphen"/>ing that is not obtain'd, <hi>Ex opere operato,</hi> (as ſome affirm) by the mere doing of the thing, how careleſly and ſupinely ſoever, but by careful and conſcientious uſing therewithal the means of Gods own appointing and hallowing. <hi>Jeſus himſelf being baptized [and praying] the heavens were opened, &amp;c.</hi> So the Sacraments of the Church, through the Prayers of the faithful, joyn'd with the Interceſſion of Chriſt, become effectual to the very ſame purpoſes, as has been ſhown in the preceeding diſcourſe.</p>
+            <p>Laſtly, We may from hence reſt ſatisfied, that the Sacraments inſtituted by Chriſt, under the
+<pb n="30" facs="tcp:45871:18"/>New Teſtament, are not <hi>Mera &amp; nuda ſymbola,</hi> Naked ſymbols, Signes onely, and meer ſignifica<g ref="char:EOLhyphen"/>tions of ſomething to be done, without confer<g ref="char:EOLhyphen"/>ring any thing at all of help or aſſiſtance towards the doing of it. Such indeed we acknowledg the Baptiſm of <hi>John</hi> to be; A Rite, or external Ceremony, ſerving to put men in mind of the great purity that would be required of them who was to live under the Laws of the <hi>Meſſia;</hi> whoſe forerunner he was, and baptized as ſuch, ſaying unto the people, <hi>that they ſhould believe on him who ſhould come after him;</hi>
+               <note place="margin">Act. 19.4.</note> that is, on Chriſt Je<g ref="char:EOLhyphen"/>ſus. Such we acknowledg Circumciſion to have been, <hi>viz.</hi> A ſign or ſymbol of cutting off the ſuperfluities, and putting away filthineſs of the fleſh, but that, in it ſelf, it contributed nothing either of grace or ſtrength towards the perfor<g ref="char:EOLhyphen"/>mance of ſuch a work.</p>
+            <p>The Sacraments of the New Teſtament are of another Nature; not bare and naked ſignes, one<g ref="char:EOLhyphen"/>ly to ſignifie what is to be done, and to mind us of our duty; but, according to the Doctrine (not onely of the Schools, but) of the Fathers, and Scripture it ſelf, they are the effectual means and inſtruments of conveying divine ayd, ghoſtly ſtrength, and Grace, to thoſe Receivers of them, that do not in themſelves, <hi>Obicem ponere</hi> (as the
+<pb n="31" facs="tcp:45871:18"/>Schools uſe to ſpeak) that is, that do not put in ſomething by way of barr, or impediment to their intended and deſigned operation: Particularly the Sacrament of Baptiſm, (ſuppoſing no ſuch barre, or impediment) does in the right uſe of it, carry along with it among others, the Graces now mentioned of Juſtification, Sanctification, and Adoption; ſo that therein, in a ſpiritual (but real) ſence, (as it was at the baptiſm of Chriſt in a literal) <hi>The Heaven is opened, the Holy Ghoſt beſtowed, and the baptiz'd perſon receiv'd for the Child of God by Adoption.</hi> And herein, as is ſaid before, conſiſts the true difference betwixt the baptiſm of <hi>John,</hi> and the baptiſm of our Savi<g ref="char:EOLhyphen"/>our, (by the confeſſion of <hi>John</hi> himſelf:) <hi>John did indeed baptize with water unto repentance,</hi>
+               <note place="margin">Mat. 3.11.</note> 
+               <hi>but our Saviour did baptize with the Holy Ghoſt, and with fire.</hi> (i.e.) did, together with his Baptiſm, confer the quick, active and operative Gifts of the Holy Ghoſt, reſembled for that reaſon to Fire. In ſhort, thus; <hi>Johns</hi> baptiſm did ſignifie unto men that Repentance and purity of Life was their duty. Chriſts baptiſm did really regenerate and purifie them.</p>
+            <p>Thus much of the View and Review of theſe words.</p>
+            <pb n="32" facs="tcp:45871:19"/>
+            <p>I ſhould here have put an end to this Diſcourſe, were it not for a certain Scruple that calls, and an Exception that clamours for ſatisfaction.</p>
+            <p>The Scruple,<note place="margin">Scruple.</note> in ſhort, is this; That ſince it is now the cuſtome of the Church, to baptize Chil<g ref="char:EOLhyphen"/>dren in their Infancy, how they can be capable of thoſe Benefits of Baptiſm above mentioned, or indeed of any other? Do they then receive Re<g ref="char:EOLhyphen"/>miſſion of their Sins, Divine Illumination, <hi>&amp;c?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To this I anſwer, They do not indeed receive a Remiſſion of their actual ſins, for they need it not; nor any actual Illumination, for they are not capable of it: But they really receive at that time both Sanctification and Remiſſion.</p>
+            <p n="1">1. Sanctification, in that their perſons are then conſecrated and dedicated to God: Their Natures regenerate, they being born anew of water, and the Holy Ghoſt.</p>
+            <p>And ſecondly, Remiſſion of Sins by ſpiritual Regeneration; the guilt of Original ſin being ſo wholly taken away by Baptiſm, that if they die before they commit any actual crime, they are undoubtedly ſaved. This is the avowed Do<g ref="char:EOLhyphen"/>ctrine of our Church, who therein grounds her ſelf upon the Word of God, as appears from thoſe words by way of Rubrick ſubjoyn'd to the office of Baptiſm. It is certain by Gods Word
+<pb n="33" facs="tcp:45871:19"/>that Children which are baptiz'd,<note place="margin">Rub. in fin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Baptiſmi.</note> dying before they commit actual ſin, are undoubtedly ſaved.</p>
+            <p>Further, they then receive the Gifts of Adop<g ref="char:EOLhyphen"/>tion, as has been ſaid, being received into the bo<g ref="char:EOLhyphen"/>ſome of the Church, as the Children of God, and enrolled into the number of the faithful. Then do they receive the ſeeds of thoſe graces which in a viſible manner ſpring up afterwards, provided that they themſelves do not <hi>obicem ponere,</hi> or put in ſomething in Bar. The baptiſm of the Spirit will in due time become as viſible as that of water, if they do not do thoſe things in the mean time that infallibly grieve and quench the Spirit.</p>
+            <p>To prevent which, the Church takes all poſ<g ref="char:EOLhyphen"/>ſible care, enjoying the uſe of Confirmation, which is intended for the corroboration of bap<g ref="char:EOLhyphen"/>tiſmal Grace, being (as one calls it) the ſupple<g ref="char:EOLhyphen"/>tory of early Baptiſm, and a Rite certainly of A<g ref="char:EOLhyphen"/>poſtolical, both Inſtitution and Practice; where<g ref="char:EOLhyphen"/>in we give our ſelves up unto Chriſt by our own free and voluntary choice, no leſs then if we had been actually baptized at that inſtant; rati<g ref="char:EOLhyphen"/>fying in our own perſons that vow, and making good that promiſe, which in the perſon of others we engag'd to perform at our Baptiſm. Thus much in anſwer to that Scruple.</p>
+            <p>The Exception which ſome put in againſt In<g ref="char:EOLhyphen"/>fant-baptiſm<note place="margin">Exception.</note>
+               <pb n="34" facs="tcp:45871:20"/>it ſelf, not onely as impenitent and frivolous, but as unlawful and abominable; is not ſo eaſily, at leaſt not ſo ſoon anſwer'd.</p>
+            <p>We are fallen into times wherein contentious, ſpirits have aſſum'd the liberty not onely to op<g ref="char:EOLhyphen"/>poſe the Doctrine, but to diſturb the peace of the Church, as about others, ſo particularly about this point of baptizing Infants; from the rebaptizing of which, they themſeves (I mean the ſect) have received their name, and are baptiz'd Anabap<g ref="char:EOLhyphen"/>tiſts.</p>
+            <p>Being then that we are met upon ſuch an oc<g ref="char:EOLhyphen"/>caſion as this, <hi>viz.</hi> to dedicate an Infant to God by Baptiſm, it may ſeem not onely ſeaſonable, but in ſome ſort neceſſary, to ſay ſomething in ju<g ref="char:EOLhyphen"/>ſtification of the Churches Practice in this Par<g ref="char:EOLhyphen"/>ticular; and to do what we can (as every true Son of the Church, and every good Chriſtian is bound to do) to put a ſtop to the careir of that opinion, which, in a ſhort time, if it ſhould pre<g ref="char:EOLhyphen"/>vail, would put an end to Chriſtianity in Chri<g ref="char:EOLhyphen"/>ſtendom, by making it conſiſt of no other but unbaptized perſons, or (if I may ſo ſpeak) of Un<g ref="char:EOLhyphen"/>chriſten'd Chriſtians.</p>
+            <p>This I ſhall endeavour to do, in as ſhort, and as ſatisfying a way as I am able: Firſt, by anſwering ſome of the chief of their Arguments; Secondly,
+<pb n="35" facs="tcp:45871:20"/>by a poſitive Aſſertion of the point it ſelf. Both theſe, as briefly, ſo, as fully, as the latter end of a Sermon will permit; referring them that have the mind and the leiſure to engage in ſuch a task, to the no few, nor ſmall volumes that have trou<g ref="char:EOLhyphen"/>bled the world upon this occaſion.</p>
+            <p>The Arguments they bring againſt paedobap<g ref="char:EOLhyphen"/>tiſm,<label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>1</label> are either drawn from Scripture or Reaſon. Of the firſt ſort, that drawn from the words of the Inſtitution of baptiſm, they look upon as unanſwe<g ref="char:EOLhyphen"/>rable. <hi>Go and teach all Nations baptizing them in the name of the Father, of the Son,</hi>
+               <note place="margin">Mat. 28.19.</note> 
+               <hi>and of the Holy Ghoſt</hi>—From whence they argue that none are to be baptized but ſuch as are firſt taught, or (as they are pleaſed to criticize upon the <hi>Greek</hi>) firſt made Diſciples.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> When men throughly underſtand Chri<g ref="char:EOLhyphen"/>ſtianity, or the way of Chriſt, and are willing to own and profeſs it, then they may be baptized, not before. So they.</p>
+            <p>To this I Anſwer, That if this Propoſition had been found in Scripture, either in expreſs words, or by undeniable conſequence, they had ſaid ſome<g ref="char:EOLhyphen"/>thing. But to lay ſo great a weight, upon ſo ſandy Foundation as that of the caſual placing of theſe words, ſhewes no more, but that (as ſinking men are willing to lay hold upon any thing, ſo) they were glad to make uſe of this Argument for want of a better.</p>
+            <pb n="36" facs="tcp:45871:21"/>
+            <p>That the placing of theſe words is without any ſuch deſign, as that any ſuch inference ought or might, be drawn from them, is evident from this, That in the ſame period Teaching is put after Bap<g ref="char:EOLhyphen"/>tizing, as well as before it,—<hi>Go and teach all Na<g ref="char:EOLhyphen"/>tions, baptizing them in the name of the Father, and the Son, and of the Holy Ghoſt; Teaching them to obſerve all things whatſoever I have commanded you,</hi>
+               <note place="margin">V. 20.</note> &amp;c. So that an Argument drawn from theſe words, for Baptizing before Teaching, is as good as for one drawn for Teaching before Baptizing, and nothing more ſure then that theſe words were not marſhall'd and plac'd thus, as an intended foundation of this Doctrine; for doubtleſs if ſo, it would have been built upon long before theſe deſtructive Builders thought of Building their Hay and Straw and Stubble upon it; Erroneous and groundleſs Deductions from Scripture, being at the beſt, no better.</p>
+            <p>A ſecond Argument is drawn from <hi>Mark</hi> 16.16. <hi>He that believeth and is baptized,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>2</label> 
+               <hi>ſhall be ſaved.</hi>— Whence they conclude that Baptiſm is for Be<g ref="char:EOLhyphen"/>lievers only. Before that, none can be capable of it, nor can it benefit any.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> To this we Anſwer, At that time when Chriſt ſpake theſe words, none could be baptized that did not actually believe, or at leaſt actually pro<g ref="char:EOLhyphen"/>feſs
+<pb facs="tcp:45871:21"/>
+               <pb facs="tcp:45871:22"/>
+               <pb n="37" facs="tcp:45871:22"/>himſelf a Believer. But <hi>diſtinguenda ſunt Tem<g ref="char:EOLhyphen"/>pora.</hi> At that time there was no ſuch thing as Children of Believers to baptize, for there were no Believers except only ſome few in <hi>Iudea.</hi> The Apoſtle at the 15. Verſe had a Commiſſion given to go forth into all the world, and to Preach the Goſpel to every creature, and as many as they could convert thoſe they were to baptize, and no other. Nothing ſo certain as that they neither would nor ought to baptize any before they were fully converted and made a profeſſion, not only of their faith, but of their deſire to be baptized,<note place="margin">Act. 8.96.</note> as we find the Eunuch did.</p>
+            <p>But afterwards the caſe was otherwiſe, when Nations came to be converted, Churches ſetled, and Chriſtianity propagated from the Father to the Son: Then,<note place="margin">Act. 2.39. 1 Cor. 7.14.</note> the promiſe being made to them and their Children; And the Children themſelves being holy, as born of believing Parents, and with<g ref="char:EOLhyphen"/>in the Covenant, they are certainly not leſs capable of being admitted into the Chriſtian Church, as Members thereof, by the right of baptiſm (which St. <hi>Paul</hi> calls the circumciſion of Chriſt) then the Iſraelitiſh Infants were of being admitted into the Jewiſh Church,<note place="margin">Col. 2.11.12.</note> by the right of circumciſion.</p>
+            <p>He then that duely conſiders this paſſage, toge<g ref="char:EOLhyphen"/>gether with the circumſtances (that ought to be
+<pb n="38" facs="tcp:45871:23"/>conſidered) of the time when, and reaſon why it was ſpoke; will I think, be as inclinable to con<g ref="char:EOLhyphen"/>clude any thing therefrom, as that it was intended as a prohibition of Baptiſm to the Children of be<g ref="char:EOLhyphen"/>lieving parents, or that any ſuch thing can, conclud<g ref="char:EOLhyphen"/>ingly, be inferr'd from it.</p>
+            <p>A third Argument they bring againſt Infant<g ref="char:EOLhyphen"/>baptiſm grounded upon this Reaſon.<label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>3</label> There is no plain and expreſs Precept in all the Scripture for the doing of it; nor no example ſo manifeſt as to evince it was ever done, therefore the doing of it is unlawful.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> To this I anſwer, That this Propoſition, [What<g ref="char:EOLhyphen"/>ſoever is not commanded in Gods word may not be done] is not true. My reaſon is becauſe the contrary unto it is ſo; whatſoever is not forbidden in the Word of God may be done; for where there is no Law,<note place="margin">Ro. 4.15.</note> there is no Tranſgreſſion.</p>
+            <p>So then whereas they ſay, there is no precept nor example for it in Scripture: Admitting that to be true, it is a ſufficient Anſwer to that Obje<g ref="char:EOLhyphen"/>ction to ſay, there is neither againſt it. And if the difference between them and us, concerning this matter, come to be weighed in this Ballance, it would he found to ſtand thus. They have the practice of the whole Church againſt them, and no Scripture for them: We have the practice of
+<pb n="39" facs="tcp:45871:23"/>the whole Church for us, and no Scripture againſt us. Theſe ſcales, you ſee give it for us, againſt them cleerly. And thus having given a taſt of their Objections to let you ſee they are anſwerable, I ſhall now ſay ſomething by way of poſitive Aſſer<g ref="char:EOLhyphen"/>tion of the Churches Doctrine and practice in this Particular.</p>
+            <p>Briefly then I ſhall endeavor to aſſert,<note place="margin">Aſſertion.</note> not only the lawfulneſs but the neceſſity of Infant-baptiſm by Scripture, by Reaſon, and by Univerſal pra<g ref="char:EOLhyphen"/>ctice, and firſt</p>
+            <p>By <hi>Scripture.</hi>
+            </p>
+            <p>I do not ſay that there is any Scripture that does <hi>totidem verbis,</hi> or in expreſs words ſay, <hi>That In<g ref="char:EOLhyphen"/>fants are to be baptized,</hi> but there is a Text that not only juſtifies the lawfulneſs of doing it, but by conſequence proves the unlawfulneſs of leaving it undone, and that is <hi>Io.</hi> 3. at the 5. verſe. <hi>Except a man be born of water and of the Spirit, he cannot enter into the Kingdom of God.</hi> Whence it follows, that if the want of Baptiſm endanger the ſalvation of any, it muſt be the fault of them that deny or or keep them from it.</p>
+            <p>I am not the firſt that has urged this Text for the neceſſity of Infant-baptiſm,<note place="margin">
+                  <hi>See</hi> Land <hi>againſt</hi> Fiſher Object. <hi>1.</hi>
+               </note> but to evade the force of this Argument they give two Anſwers. Firſt, that the Text it ſelf is to be underſtood of perſons
+<pb n="40" facs="tcp:45871:24"/>of mature age. and therefore it is ſaid <hi>Except a man,</hi> not except a child <hi>be born again,</hi> &amp;c. To this I anſwer, that</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> This is a miſtake ariſing from the ignorance of the original, and therefore the Reply is eaſie. It is not there, <hi>Except a man</hi> (as we Tranſlate it) but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, It is an Indefinite, equivalent to an Univerſal, ſo that the ſence is (without exception of Man, Woman, or Child) <hi>Except a perſon,</hi> or <hi>except one be born again of water,</hi> &amp;c.</p>
+            <p>A ſecond exception to the Argument drawn from this Text is this, That according to the Rule of this expoſition there is a neceſſity of commu<g ref="char:EOLhyphen"/>nicating Children as well as of baptizing them, of giving them the Sacrament of the Euchariſt as well as that of Baptiſm, for it is ſaid <hi>Io.</hi> 6.53. <hi>Except ye eat the fleſh of the ſon of man, and drink his Blood, ye have no life in you.</hi>
+            </p>
+            <p>To this I anſwer that one Scripture is to be ex<g ref="char:EOLhyphen"/>pounded, ſo as not to contradict another, and pla<g ref="char:EOLhyphen"/>ces that are obſcure, muſt receive light from thoſe that are plain. Now the places that ſpeak of the Sacrament of the Lords Supper do plainly ſhow that it is to be received only by ſuch as have the uſe of reaſon and have underſtanding. <hi>As oft as ye eat this bread and drink this cup, ye do ſhew forth</hi> (or ſhew ye forth) <hi>the Lords death till he come.</hi> And in
+<pb n="41" facs="tcp:45871:24"/>the next verſe, <hi>Let a man examine himſelf,</hi>
+               <note place="margin">1 Cor. 11.26, 27.</note> 
+               <hi>and ſo let him eat of that bread, and drink of that cup,</hi> &amp;c. Self<g ref="char:EOLhyphen"/>examination, and commemoration of Chriſts death are the eſſential and indiſpenſible duties of thoſe that come to that Sacrament, neither of which children are capable of performing, and con<g ref="char:EOLhyphen"/>ſequently cannot be included in the latter of theſe Texts, but muſt be ſo in the former, unleſs ſome Scripture can be ſhown to the contrary which hi<g ref="char:EOLhyphen"/>therto I preſume has not been done.</p>
+            <p>But if they ſhall ſtill perſiſt, and ſay, that this place is not expreſs and plain enough for them who make Scripture their Rule, and go no further then they have expreſs warrant from thence; then I deſire that they would pleaſe to ſhow any au<g ref="char:EOLhyphen"/>thority out of Scripture for the communicating of women, or the obſervation of the Lords Day, ſo ſtrong and full as this is for the baptizing of In<g ref="char:EOLhyphen"/>fants.</p>
+            <p>My ſecond Argument for Infant-baptiſm is from <hi>Reaſon.</hi>
+            </p>
+            <p>Infants ſtand in need of this Sacrament, and this Sacrament is effectual as to what they need, and therefore in all reaſon they ought to be admitted to it, and it is a ſin to deny it them. They ſtand in need of it in regard of the pollution of their na<g ref="char:EOLhyphen"/>tures by Original ſin; <hi>being conceived in ſin and
+<pb n="42" facs="tcp:45871:25"/>born in iniquity.</hi>
+               <note place="margin">Pſal. 51.5.</note> Now that Baptiſm does take a<g ref="char:EOLhyphen"/>way Original ſin, as to the guilt of it, and waſhes them clean from that, is clearly the conſequence of what the Church delivers as her avowed Do<g ref="char:EOLhyphen"/>ctrine, mentioned before, where ſhe ſays, It is cer<g ref="char:EOLhyphen"/>tain by Gods Word that Children which are bap<g ref="char:EOLhyphen"/>tized, dying before they commit actual ſin, are un<g ref="char:EOLhyphen"/>doubtedly ſaved, which cannot be true, unleſs their Original ſin be forgiven in Baptiſm. St. <hi>Au<g ref="char:EOLhyphen"/>ſtine</hi> conſidering this, does think it very reaſonable, that if by the ſins of another (that is, of their firſt Parents) they are made capable of Damnation; ſo by the Faith of others (<hi>i.e.</hi> their Sponſores, or thoſe that undertake for them) they may be ad<g ref="char:EOLhyphen"/>mitted to that Sacrament which makes them ca<g ref="char:EOLhyphen"/>pable of Salvation.</p>
+            <p>Therefore (ſays he) being in the ſtate of Ori<g ref="char:EOLhyphen"/>ginal ſin, and ſtanding in need of the Laver of Re<g ref="char:EOLhyphen"/>generation, but not being able to preſent them<g ref="char:EOLhyphen"/>ſelves to it, <hi>accommodat eis mater Eccleſia aliorum pedes ut veniant, aliorum corda ut credant.</hi> Being not able to come themſelves, they are brought by others; and being not able to undertake any thing for themſelves, others undertake in their names, and for them: The great Shepherd and Biſhop of our Souls, being willing to give them Induction by Proxy, into his Kingdom, becauſe
+<pb n="43" facs="tcp:45871:25"/>it was by Proxy, or in the perſon of another that they firſt fell from it. <hi>Peccant in alio,</hi>
+               <note place="margin">Auſtin.</note> 
+               <hi>credunt in alio, inquinantur in alio, purgantur in alio:</hi> And if God, in Juſtice, may impute the ſin of another unto them, and reckon that Original guilt, contra<g ref="char:EOLhyphen"/>cted in Adam, as theirs; May he not, as well, in mercy, accept that profeſſion of faith made at their Baptiſm, and thoſe vows and promiſes, as if they were their own, eſpecially ſince they become their own, as ſoon as they come to underſtand them.</p>
+            <p>
+               <hi>Practice.</hi>
+            </p>
+            <p>My third Plea for the Aſſertion of Infant-bap<g ref="char:EOLhyphen"/>tiſm is from the univerſal practice of the Church.</p>
+            <p>That it is at preſent the univerſal practice of all that in all the world call themſelves Chriſtians, themſelves, I mean Anabaptiſts excepted) is a thing that they themſeves cannot deny.</p>
+            <p>For precedent Ages, there is no Writer, how ancient ſoever, but mentions it; and St. <hi>Auſtin</hi> concludes it to be of Apoſtolical Tradition, and gives this Rule whereby we are to judg it to be ſo; <hi>Quod ſemper in Eccleſia retentum eſt, nec in ſcripturis invenitur, nec a concilio ſancitur, id ab Apoſtolis traditum eſſe, recte creditur.</hi> That which has ever been practis'd in the Church, and is nei<g ref="char:EOLhyphen"/>ther delivered in the Scriptures, nor enjoyn'd by
+<pb n="44" facs="tcp:45871:26"/>a Council that is rightly to be looked upon as de<g ref="char:EOLhyphen"/>rived unto us by Apoſtolical tradition: and in<g ref="char:EOLhyphen"/>ſtances, for example, in the Baptiſm of Infants.</p>
+            <p>So that whereas they ſay it is a late Invention crept into the Church, ſince the myſterie of Ini<g ref="char:EOLhyphen"/>quity began to work; if they mean to be believ'd when they ſay ſo, they are bound to ſhow the time when it was firſt introduc't, and this under the penalty of lying under that ſevere charge that Mr. <hi>Calvin</hi> upon this account layes upon them. <hi>Quod antem apud ſimplicem vulgum diſſeminant,</hi>
+               <note place="margin">Inſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> c. 17.</note> 
+               <hi>longam annorum ſeriem poſt Chriſti reſurrectionem praeterüſſe, quibus incognitus erat paedobaptiſmus, in eo faediſſimè mentiuntur. Siquidem nullus eſt Scrip<g ref="char:EOLhyphen"/>tor tam vetuſtus, qui non ejus originem ad Apoſtolo<g ref="char:EOLhyphen"/>rum tempora pro certo referat.</hi> Whereas (ſayes he) they ſpread it among the ſimple vulgar, that many years after Chriſts Reſurrection, there was no ſuch thing known, as the Baptizing of Infants, they lye moſt filthily; for there is not any Writer ſo an<g ref="char:EOLhyphen"/>cient, but does refer the original of it, for certain, to the Apoſtles times.</p>
+            <p>The caſe ſtanding thus, the meaneſt Chriſtian that is, may confute this error out of that place in St. <hi>Paul,</hi> where he ſayes, <hi>If any one be contentious, we have no ſuch cuſtom, neither the Churches of God.</hi> From which paſſage I ſhall deſire to recommend
+<pb n="45" facs="tcp:45871:26"/>theſe two ſhort notes, and ſo to conclude this whole diſpute.</p>
+            <list>
+               <item>1. In caſes of this nature, Diſſenters ought to be concluded by the practice of the Church.</item>
+               <item>2. They that refuſe to be concluded by that, are to be look'd upon as contentious perſons, ſuch as neither reaſon nor authority can ſatisfie; <hi>Ratio<g ref="char:EOLhyphen"/>nibus non convincantur quia non intelligunt, Autho<g ref="char:EOLhyphen"/>ritatibus non conſtringuntur quia non recipiunt.</hi> They are not convinc'd by Reaſon, becauſe they under<g ref="char:EOLhyphen"/>ſtand it not; nor ſilenc'd by Authority, becauſe they own it not; as one long ſince found cauſe to complain.</item>
+            </list>
+            <p>And now having done with this diſpute, I find my ſelf at liberty to conclude; which I ſhall do with a ſhort (but neceſſary) Reflexion or two, firſt upon our ſelves, and ſecondly upon the pre<g ref="char:EOLhyphen"/>ſent occaſion.</p>
+            <p>Firſt then conſidering what has been ſaid, and admitting it for Truth, we cannot but find our ſelves oblig'd to entertain a high and venerable eſteem of the ſacred Rights and Inſtitutions of our moſt holy Religion: particularly of this Sacra<g ref="char:EOLhyphen"/>ment of Baptiſm, as a thing high, holy, myſterious and ſacred, not only in reſpect of the Author and Inſtituter of it, (which was the co-eternal Son of God, our bleſſed Saviour; (himſelf God above
+<pb n="46" facs="tcp:45871:27"/>all, bleſſed for evermore) but alſo in regard of the happy effects of it,<note place="margin">Ro. 9.50</note> and the bleſſings which are con<g ref="char:EOLhyphen"/>veyed to us thereby. It being the Laver of Rege<g ref="char:EOLhyphen"/>neration, the Seal and Inſtrument of Illumination, Juſtification, Sanctification, and Adoption. A right that our bleſſed Saviour firſt ſanctifyed by his per<g ref="char:EOLhyphen"/>ſonal ſuſception, afterwards conſigning it over as an eſſential right and neceſſary duty to his Church, never to be diſus'd or laid down till his ſecond comming; and laſt of all does make it effectual to his Church, to ſeveral great and high purpoſes, by the Miniſtery of his holy ſpirit, which according to his own promiſe, ſhall accompany the right and due uſe of it, to the end of the world, as has been formerly ſhown, and prov'd.</p>
+            <p>It is the ſin and ſhame of this preſent age to diſ<g ref="char:EOLhyphen"/>value and ſlight the holy Rights and ſacred Inſti<g ref="char:EOLhyphen"/>tutions of that Religion they pretend to own; to queſtion their validity, and diſpute their efficacy. And (more is the pity) they are not a few that place the greateſt part of their Religion in ſo do<g ref="char:EOLhyphen"/>ing, accounting themſelves Chriſtians for nothing more, then for either not having receiv'd, or having renounc't their Baptiſm.</p>
+            <p>If a Jew under the Law of <hi>Moſes,</hi> ſhould have ſaid any thing by way of deriſion or contempt of Circumciſion, he ſhould certainly have ſuffered
+<pb n="47" facs="tcp:45871:27"/>death, if it had been prov'd againſt him, by three,<note place="margin">Heb. 10.28.</note> or but by two witneſſes. Of how much ſorer pu<g ref="char:EOLhyphen"/>niſhment (according to St. <hi>Paul</hi>'s own argument) ought he to be thought worthy, which deſpiſes this Sacrament of the new Covenant, which ſuc<g ref="char:EOLhyphen"/>ceeds in the room of that, and of which that was but a type and ſhadow: eſpecially conſidering that ſince Chriſt both inſtituted it by his precept, and ſanctifyed it by his example, and accompanies it by his holy ſpirit, and has commanded a perpe<g ref="char:EOLhyphen"/>tual uſe of it to the end of the world. Such af<g ref="char:EOLhyphen"/>fronts and contempts as theſe are, cannot be offered to ſuch an Ordinance as this is, by any,<note place="margin">Ver. 19.</note> without treading under foot the ſon of God, who ordain'd it; nor without counting the blood of the Cove<g ref="char:EOLhyphen"/>nant wherewith he was ſanctifyed (the Benefit of which is conſign'd to him in this Sacrament) an unholy thing; and without doing deſpite to the ſpirit of Grace.</p>
+            <p>Not only the Jew but the Gentile, not the old Synagogue alone, but the old Pagan world, ſhall riſe up in Judgment againſt this generation of pro<g ref="char:EOLhyphen"/>phane Saints, and condemn them; for they were true to the Religion they profeſt, and held all that related to it ſacred, and worthy of their higheſt veneration.</p>
+            <pb n="48" facs="tcp:45871:28"/>
+            <p>'Tis true, the Pagan Religion and Rights there<g ref="char:EOLhyphen"/>of, were impious and idolatrous, but they looking upon it as divine, and knowing no better, if they ſhould have trampled upon the Temples, Sacri<g ref="char:EOLhyphen"/>fices, and Rights of thoſe that they held for true Deities, they ought to have been look'd upon in all reaſon, not ſo much for Idolaters as Atheiſts.</p>
+            <p>To deſpiſe the ſacred Rites of Chriſtianity, which are the known and confeſt Inſtitutions of Chriſt, can proceed from nothing elſe then a Tin<g ref="char:EOLhyphen"/>cture (at leaſt) of the ſpirit of Atheiſm, which is notoriouſly known to have been very predominant in ſome of the Apoſtles of that Sect.</p>
+            <p>Secondly,<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>2</label> ſince this Ordinance of Chriſt has ſo high, holy, and beneficial an influence upon all that are ingrafted into him thereby. Since therein, Heaven is opened, the Holy Ghoſt is given, and the grace of Adoption conferred: It highly con<g ref="char:EOLhyphen"/>cerns all thoſe who know themſelves to have been incorporated into the Church,<note place="margin">Col. 2.24.</note> which is the Body of Chriſt, by this means, to conſider the obliga<g ref="char:EOLhyphen"/>gation that lyes upon them, to labour to walk wor<g ref="char:EOLhyphen"/>thy of this vocation wherewithall they are called.</p>
+            <p>Think what a horrible Apoſtacy it is, after we have ſworn Allegiance to God, to revolt to the Devil.<note place="margin">2 Cor. 7.21.</note> Conſider what zeal, what care, what vehe<g ref="char:EOLhyphen"/>ment deſire (to uſe the Apoſtles words) we ought
+<pb n="49" facs="tcp:45871:28"/>alwayes to have, to correſpond with this Vow and Obligation of ours; yea, what Indignation and Revenge we ought to entertain againſt our Sins, which are the deleteryes and defacers of our Bap<g ref="char:EOLhyphen"/>tiſmal Innocence.</p>
+            <p>Every ſingle Act of Sin is a Receding from this Vowe; But a confirm'd Habit therein, unſettles our calling, diſaſcertains our condition, as being a Relapſe and Apoſtacy from our Allegiance, a treacherous Revolt from our Leige Lord, and Soveraign, and a running over to his open and profeſt Enemies; a divorcing the Dove, to eſpouſe the Serpent; which muſt needs throw us into great and horrible, if not (ſometimes) into irreco<g ref="char:EOLhyphen"/>verable dangers.</p>
+            <p>'Tis better (in the judgment of <hi>St. Peter</hi>) not to have been waſhed, then after they have been ſo, to return with the Sow,<note place="margin">2 Pet. 2.22.</note> to her wallowing in the mire.</p>
+            <p>Let all of us then that have been made partakers of this Grace, <hi>ſee that we walk circumſpectly,</hi>
+               <note place="margin">2 Pet. 1.10.</note> 
+               <hi>re<g ref="char:EOLhyphen"/>deeming the time, and giving diligence to make this our high calling and holy election ſure, by adding to Faith, Vertue; to Vertue, Knowledge; to Know<g ref="char:EOLhyphen"/>ledge, Temperance; to Temperance, Patience;</hi>
+               <note place="margin">Verſ. 5, <hi>&amp;c.</hi>
+               </note> 
+               <hi>to Patience, Godlineſs,</hi> &amp;c. that we may not be barren and unfruitful members, <hi>but may go on from ſtrength
+<pb n="50" facs="tcp:45871:29"/>to ſtrength, and from virtue to virtue;</hi> that ſo our Adoption through Grace may have its conſum<g ref="char:EOLhyphen"/>mation in glory, and that in the day of the Reſti<g ref="char:EOLhyphen"/>tution of all things we may be own'd by the cha<g ref="char:EOLhyphen"/>racter imprinted upon us in the day of our en<g ref="char:EOLhyphen"/>trance into the body of Chriſts Church and com<g ref="char:EOLhyphen"/>munion of the Faithful.</p>
+            <p>Laſtly, with reſpect unto the occaſion of our preſent meeting, I ſhall onely add: That ſince it is the acknowledg'd duty of all Chriſtians (as being all baptized into the ſame hope, and there<g ref="char:EOLhyphen"/>by made fellow Members of the ſame myſtical Bo<g ref="char:EOLhyphen"/>dy) to have a fellow-feeling and Chriſtian ſym<g ref="char:EOLhyphen"/>pathy in each others concerns, whether of weal or wo; <hi>to rejoyce with them that rejoyce, and to weep with them that weep.</hi>
+               <note place="margin">Ro. 12.15.</note> I conceive it no leſs then the duty of all that fear God here preſent, to joyne in their Gratulations, and to offer up their thankſgivings unto God, for this his great mercy and ſignal favour at this time beſtowed up<g ref="char:EOLhyphen"/>on this noble Family, in that he has been plea<g ref="char:EOLhyphen"/>ſed to give them <hi>beauty for aſhes,</hi>
+               <note place="margin">Iſa. 61.3.</note> 
+               <hi>and the oyl of gladneſs for mourning, and the garment of praiſe for the ſpirit of heavineſs:</hi> ſo that now they may in<g ref="char:EOLhyphen"/>vert thoſe ſorrowful words of <hi>Job (Deus dedit &amp; Deus abſtulit)</hi> which was all that lately they
+<pb n="51" facs="tcp:45871:29"/>had to comfort themſelves withal: <hi>The Lord hath given, and the Lord hath taken,</hi>
+               <note place="margin">Job. 1.21.</note> 
+               <hi>bleſſed be the name of the Lord.</hi>
+            </p>
+            <p>And now (Bleſſed be the name of the Lord) <hi>Deus abſtulit &amp; Deus dedit:</hi> The Lord has taken, and the Lord has given. For one, and that then an onely Son, lately taken into the Kingdom of Glory, he has given them another this day to be admitted into the Kingdom of Grace.</p>
+            <p>Which we being now ſolemnly going to do, give me leave ſolemnly to move and beſeech you all, That ſince the Prayers of the faithful are the means of Gods own appointing and hallowing for effectuating (through the merits and Interceſ<g ref="char:EOLhyphen"/>ſion of Chriſt Jeſus) of this his own Ordinance, and for procuring the ſacred energy and influence of the Holy Spirit, to the pouring forth of thoſe various graces convey'd in the Adminiſtration of this Holy Sacrament; you would joyn in the con<g ref="char:EOLhyphen"/>tribution of your unanimous and hearty prayers, that God would be pleaſed to open (at this time) the Heavens, ſo as that the Holy Ghoſt may de<g ref="char:EOLhyphen"/>ſcend, to ſanctifie theſe waters, to hallow this In<g ref="char:EOLhyphen"/>fant, to waſh away his original guilt and ſtains, to enrol him for a Souldier of Chriſt, and a Son of God.</p>
+            <p>And further, that if God in his infinite mercy
+<pb n="52" facs="tcp:45871:30"/>ſhall pleaſe to prolong his life, and give him length of dayes (and we pray that his dayes may be ma<g ref="char:EOLhyphen"/>ny and happy) that he would throughout his whole life prevent him with his goodneſs, pouring out upon him thoſe Graces that may be needful for the holy and happy conduct of it through the waves of this troubleſome world, till ſuch time as he arrive at the land of everlaſting life, through Je<g ref="char:EOLhyphen"/>ſus Chriſt our Lord.</p>
+            <p>That He may never break, or recede from this his Baptiſmal Vow; but that being ſtedfaſt in faith, joyful through hope, and rooted in Chari<g ref="char:EOLhyphen"/>ty; He may grow from Grace to Grace, and ſtrength to ſtrength, till he become as eminent in his moral and religious, as he will be (if God bleſs him with life) in his civil and politick capacities.</p>
+            <p>
+               <hi>And may theſe our Prayers upon Earth, be ratified in Heaven, by God the Father of our Lord Jeſus Chriſt; To whom, with the holy Ghoſt, in the unity of the ſame Godhead, be all Honour, Praiſe and Thanks<g ref="char:EOLhyphen"/>giving world without end.</hi> Amen.</p>
+            <trailer>The End.</trailer>
+            <pb facs="tcp:45871:30"/>
+         </div>
+      </body>
+   </text>
+</TEI>
